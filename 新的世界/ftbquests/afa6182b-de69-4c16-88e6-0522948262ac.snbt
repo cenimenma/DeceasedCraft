@@ -1,0 +1,25 @@
+{
+	version: 1
+	uuid: "afa6182bde694c1688e60522948262ac"
+	name: "cancan_neednews"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		047C5CB3ED9A8E47: 1
+		7CE16FEEA03DBE1F: 1
+	}
+	started: {
+		7CE16FEEA03DBE1F: 1723689663386L
+		4523079E2318BD94: 1723689663386L
+		2583DDB195B6CFEA: 1723689663386L
+		0000000000000001: 1723689663386L
+		2C6177EDC934F9DC: 1723689663395L
+		047C5CB3ED9A8E47: 1723689663395L
+	}
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

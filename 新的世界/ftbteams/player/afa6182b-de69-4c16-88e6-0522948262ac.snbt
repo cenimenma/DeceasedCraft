@@ -1,0 +1,17 @@
+{
+	id: "afa6182b-de69-4c16-88e6-0522948262ac"
+	type: "player"
+	player_name: "cancan_neednews"
+	ranks: {
+		afa6182b-de69-4c16-88e6-0522948262ac: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "cancan_neednews"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFF3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
